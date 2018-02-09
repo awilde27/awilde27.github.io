@@ -60,14 +60,27 @@ Regarding the number of clusters, I chose k=4 and k=8 for the cluster sizes. The
 
 These are the results of using K-Means for the first hypothesis. 
 
+### Cluster Size 4
+
 ![Cluster 4](/imgs/yelp_cluster4_table.png)
 
+If we examine cluster 1, notice that the cluster contains the highest average rating, highest most frequent rating, and shortest average text length. This seems to imply that there is a strong relationship between rating given and text length. On the other end, notice that the lowest average rating and most frequent rating appeared in cluster 3, and we also have the highest average text length out of all clusters. This is supportive of hypothesis 1, which stated that higher ratings tend to correspond with shorter reviews and vice versa. Let's look at the plot of average text length vs. average rating given.
+
+![cluster plot 4](/imgs/tl_vs_rat_cluster4.png)
+
+
+### Cluster Size 8
+
 ![Cluster 8](/imgs/yelp_cluster8_table.png)
+
+Similar to the cluster with 4 clusters, we see the same trends appearing. In cluster 8, we have an average rating of 3.89, most frequent rating of 3.79, and average text length of 187 characters, the lowest of any cluster. Moreover, take a look at clusters 2 and 6. These clusters have very low ratings, yet very high average text length. Let's again examine the plot of average text length vs. average rating given.
+
+![Cluster plot](/imgs/tl_vs_rat_cluster8.png)
 
 
 # Conclusions
 
-Conclusions go here.
+
 
 
 
