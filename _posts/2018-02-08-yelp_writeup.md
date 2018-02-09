@@ -10,7 +10,7 @@ image: /imgs/yelp_logo.png
 
 1. [Intro](#intro) 
 2. [Setup](#setup)
-3. [Hypothesis](#hypothesis)
+3. [Hypotheses](#hypotheses)
 4. [Data Processing](#data-processing)
 5. [Method](#method)
 6. [Results](#results)
@@ -25,7 +25,7 @@ This post is inspired by an assignment I was given in my Data Mining and Analyti
 
 The Yelp reviews dataset contains the features business ID, user ID, stars, review text, review date, number of cool votes, number of funny votes, and number of cool votes. For those unfamiliar with the Yelp app, a user has the ability to vote on another user's review in one of those three categories.  
 
-# Hypothesis
+# Hypotheses
 
 ### Hypothesis 1
 
