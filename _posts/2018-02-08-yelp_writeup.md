@@ -80,6 +80,10 @@ Similar to the cluster with 4 clusters, we see the same trends appearing. In clu
 
 # Conclusions
 
+It is clear that given the dataset, there is clear evidence that longer reviews are highly correlated with lower ratings.
+
+
+
 
 
 
