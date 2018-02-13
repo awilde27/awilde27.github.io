@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - GitHub: "https://github.com/awilde27"
+    - Square Pitch Deck: "square_deck.pdf"
   Resume: "orwilde.pdf"
 
 #  Author's home: "http://deanattali.com"
