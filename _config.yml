@@ -25,8 +25,8 @@ description: Personal Website for Alex Wilde
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - GitHub: "https://github.com/awilde27"
     - Square Pitch Deck: "square_deck.pdf"
+  GitHub: "https://github.com/awilde27"
   Resume: "orwilde.pdf"
 
 #  Author's home: "http://deanattali.com"
