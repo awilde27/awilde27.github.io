@@ -25,6 +25,15 @@ This post is inspired by an assignment I was given in my Data Mining and Analyti
 
 The Yelp reviews dataset contains the features business ID, user ID, stars, review text, review date, number of cool votes, number of funny votes, and number of cool votes. For those unfamiliar with the Yelp app, a user has the ability to vote on another user's review in one of those three categories.  
 
+| Average Text Length | Most Reviewed Date | Average Rating | Average Terseness | Most Frequent Rating |
+| :---- | :------ | :------ | :------ | :------ |
+| 1189.00 | 2005 | 5.00 | 0.00 | 5 |
+| 153.00 | 2005 | 4.67 | 0.187 | 5 |
+| 885.00 | 2005 | 4.00 | 0.00 | 4 |
+| 502.67 | 2006 | 3.67 | 0.029 | 5 |
+| 1477.5 | 2005 | 2.75 | 0.00 | 1 |
+
+
 # Hypotheses
 
 ### Hypothesis 1
@@ -77,6 +86,9 @@ Similar to the cluster with 4 clusters, we see the same trends appearing. In clu
 
 ![Cluster plot](/imgs/tl_vs_rat_cluster8.png)
 
+### Terseness Issue
+
+I noticed that the terseness score is a little bit redundant with respect to the first hypothesis. In other words, because the feature incorporates text length already, 
 
 # Conclusions
 
