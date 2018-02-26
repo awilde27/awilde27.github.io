@@ -6,7 +6,7 @@ subtitle: Hiding within these mounds of data is knowledge that could change the 
 
 <div style="text-align:center" markdown="1">
 
-![Alt Text](/img/high_jump.jpeg)
+![Alt Text](/imgs/high_jump.jpeg)
 
 </div>
 
