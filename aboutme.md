@@ -10,7 +10,9 @@ subtitle: Hiding within these mounds of data is knowledge that could change the 
 
 </div>
 
-Fourth year student at UC Berkeley studying Applied Math with a Data Science concentration. I am passionate about learning, and love building projects to test what I've learned. Favorite classes at Cal so far have been Math 55 (Discrete Math), Stat 134 (Probability), and CS 189 (Machine Learning).  
+I am currently working at 360i as a Data Scientist in New York. My work involves Data Engineering and implementing Mathematical models into production code. My data engineering involves constructing cloud-based data pipelines and other ETL, and I work heavily with time series models.
+
+Recently, I graduated from UC Berkeley as an Applied Math major with a Data Science concentration. I am passionate about learning, and built many projects to test what I've learned. Favorite classes at Cal were Math 55 (Discrete Math), Stat 134 (Probability), and CS 189 (Machine Learning).  
 
 Through my past work, I have become interested in insight focused Data Science, particularly product-based Data Science, and Marketing & Business Analytics. My dream would be to join a company that has something to do with my personal interests outside of school and work. 
 
