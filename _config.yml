@@ -27,7 +27,7 @@ navbar-links:
   Resources:
     - Square Pitch Deck: "square_deck.pdf"
   GitHub: "https://github.com/awilde27"
-  Resume: "orwilde.pdf"
+  Resume: "resume.pdf"
 
 #  Author's home: "http://deanattali.com"
 
@@ -62,7 +62,7 @@ author:
   linkedin: alex-wilde-in  # eg. daattali
 
 #  stackoverflow: yourlink  # eg. "3943160/daattali"
-  
+
 
 # Select which links to show in the footer
 footer-links-active:
