@@ -15,8 +15,7 @@ neuroticism that he may have had, and instead become a very engaging individual 
 initiative which eventually lead to great success.
 
 Bill Browder is clearly a very smart guy, hailing from a family of academics and even an
-infamous politician—his grandfather, the leader of the American Communist Party from 1930 to
-1945. However, it was through his experiences growing up that he decided academia was not the
+infamous politician—his grandfather, the leader of the American Communist Party from 1930 to 1945. However, it was through his experiences growing up that he decided academia was not the
 right choice for him, much to the dismay of his parents. When he graduated from the University
 of Chicago with an economics degree, he might have seemed like your typical econ major
 looking to go into a finance or consulting role. And he did. It is interesting to think about the fact
