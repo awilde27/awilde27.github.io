@@ -34,9 +34,7 @@ consultant and move to Russia.
 Perhaps the most exciting part of Browder’s testimony is when he finally receives a job
 offer at Salomon Brothers and begins his journey into Russia. His time in Russia while working
 at Salomon Brothers was only the beginning, but it was clear that the intensity of being in such a
-polar opposite country to the US or Britain was enough for Browder to fall in love. I am
-
-interested in why he was so certain that pursuing a career in the Russian markets was his calling,
+polar opposite country to the US or Britain was enough for Browder to fall in love. I am interested in why he was so certain that pursuing a career in the Russian markets was his calling,
 as it was clear there was major evidence that his decision may have been heavily influenced by
 his grandfather’s life. Nevertheless, he started slow and eventually made his way to quitting his
 job and starting his own fund, a sign that Russia was a match. A question to ponder about his
